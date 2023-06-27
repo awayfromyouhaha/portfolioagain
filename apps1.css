@@ -1,0 +1,163 @@
+
+#mainNavbar li{
+    list-style:none;
+}
+body
+{
+    /* background-color:#DB7093; */
+    color:#8B008B;
+    background-image:url('marek-piwnicki-ZTpW2l8XZkw-unsplash.jpg');
+   background-size: 100% 100%;
+   background-attachment: fixed;
+   background-repeat: no-repeat;
+}
+
+
+#mainNavbar .nav-link{
+    list-style: none;
+    margin: 0 23px;
+    color:#8B008B;
+    align-items: center;
+    font-size: 1.5rem;
+}
+#mainNavbar .navbar-brand
+{
+    color:#8B008B;
+    font-size: 2rem;
+    align-items: center;
+    margin: 0 23px;
+}
+
+Nav{
+    
+    justify-content: space-between;
+   
+     background-color: #FFB6C1; 
+
+}
+.left
+{
+    font-size: 2rem;
+}
+
+#mainNavbar .nav-link:hover{
+
+    color:#0000FF;
+    font-size: 1.5rem;
+
+}
+#somebutton a {
+    color:white;
+    background-color: #5e0202;
+    font-size: 20px;
+    padding-top:25px;
+    padding-right: 46px;
+    padding-bottom: 25px;
+    padding-left:46px;
+    display:inline-block;
+    text-decoration: none;
+
+}
+#somebutton
+{
+    margin-top:80px;
+}
+#threemore a:hover
+{
+    background-color:#803535;
+}
+
+#somebutton a:hover
+{
+    background-color: #803535;
+}
+
+#threemore a{
+    color:white;
+    background-color: #5e0202;
+    font-size: 20px;
+    padding-top:25px;
+    padding-right: 46px;
+    padding-bottom: 25px;
+    padding-left:46px;
+    display:inline-block;
+text-decoration: none;
+margin-bottom: 100px;
+
+    
+}
+
+ #firstSection
+{
+    display:flex;
+    justify-content:space-around;
+    align-items: center;
+    margin: 80px 0;
+}
+#firstSection > div{
+    width: 30%;
+}
+.leftsection{
+    
+    font-size:3rem;
+    margin: 70px 0;
+    padding-top: 50px;
+}
+.rightsection img {
+    width:  100%;
+    margin: 40px 0 0 50px ;
+    height: 50;
+    opacity: 0.5;
+}
+.basic{font-size: 2rem;
+    text-align: center;   
+    color:#800000;
+}
+
+    
+
+#element
+{
+    color:#800000;    
+} 
+
+#basicIntro h1
+{
+    margin-top: 80px;
+    color:black;
+    text-align: center;
+    font-size: 5rem;
+    line-height: 2em;
+}
+
+#basicIntro p
+{
+    color:black;
+    font-size:1.5rem;
+    display:flex;
+    text-align: center;
+    justify-content: space-around;
+    font-weight: lighter;
+   
+}
+/* footer{
+    background-color: rgb(195, 99, 131);
+    height: 233px;
+    opacity: 80%;
+}
+.footer
+{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 80px;
+    padding-top: 20px;
+    justify-content:space-evenly;
+}
+
+.footer ul{
+    list-style: none;
+}
+
+.footer > div{
+    width: 200px;
+} */
